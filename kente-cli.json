@@ -1,0 +1,22 @@
+{
+  "_pleaseNote": "Auto generated file for future use. Please do not edit",
+  "project": {
+    "name": "shop101",
+    "description": "Basic",
+    "title": "Feature",
+    "author": "Shaun",
+    "adoTaskNumber": "",
+    "features": {
+      "registeredInAppStore": false,
+      "semanticRelease": false,
+      "repoName": "shop101"
+    },
+    "template": "fa-template"
+  },
+  "runtime": {
+    "cli": "1.0.0",
+    "node": "v20.11.1",
+    "path": "shop101"
+  },
+  "version": "1.0.0"
+}
